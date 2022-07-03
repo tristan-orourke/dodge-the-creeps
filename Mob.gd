@@ -3,7 +3,6 @@ extends RigidBody2D
 
 export (int) var min_speed # Minimum speed range.
 export (int) var max_speed # Maximum speed range.
-var mob_types = ["walk", "swim", "fly"]
 
 
 # Called when the node enters the scene tree for the first time.
